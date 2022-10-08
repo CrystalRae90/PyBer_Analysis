@@ -22,7 +22,7 @@ All data was split based on the city type: Rural, Urban, or Surburban.
 
 Once the data was compiled, we were able to summarize it as shown below: 
 
-!["Pyber_Summary.png"]("Analysis/Pyber_Summary.png")
+![Pyber_Summary.png]("Analysis/Pyber_Summary.png")
 
 Looking at the data, we can quickly see there is significantly more rides in urban areas than rural, which also corresponds to the total driver count. Conversely, rural rides are on average more expensive than those in urban areas. For both cases, suburban rides and driver count remain the middle as well as for average fare costs. 
 
@@ -30,7 +30,7 @@ One observation is that the average fare per driver is higher than the average f
 
 When we look at the total fare grouped by week for each city type, we see the below graph. 
 
-!["Pyber_Fare_Summary.png"]("Analysis/Pyber_Fare_Summary.png")
+![Pyber_Fare_Summary.png]("Analysis/Pyber_Fare_Summary.png")
 
 The chart shows us that there are similar trends for total fares across each type, but it does highlight that urban areas generate the most total fares. 
 
