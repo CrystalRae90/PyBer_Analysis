@@ -18,6 +18,8 @@ In order to analyze the data, we needed to merge the city data and ride data. Us
 
 All data was split based on the city type: Rural, Urban, or Surburban. 
 
+This was done by creating a data frame for each data set. 
+
 ### Analysis
 
 Once the data was compiled, we were able to summarize it as shown below: 
@@ -48,7 +50,7 @@ While we have been assuming that suburban and rural areas have an increase milea
 
 - Map data for entire year
 
-In the line graph, we primarily looked at the January to April data. It would be interesting to see if there was any changes to the data set when you look at a full year or longer than that. 
+In the line graph, we primarily looked at the January to April data. It would be interesting to see if there was any changes to the data set when you look at a full year or longer than that. That would probably give a fuller picture of the data set. 
 
 Overall, there are most likely other factors influencing the data and we would need to continue to expand our analysis to make meaningful suggestions. 
 
